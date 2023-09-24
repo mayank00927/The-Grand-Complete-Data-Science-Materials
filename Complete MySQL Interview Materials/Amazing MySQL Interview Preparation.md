@@ -732,6 +732,20 @@ FROM table_name
 WHERE column_name NOT IN (SELECT MAX(column_name) FROM table_name);
 
 ```
+
+**118. Draw square pattern of * sign using recursive CTE ?**
+*****
+*****
+*****
+*****
+
+- **Answer:**
+
+```sql
+with recursive CTE (
+
+
+```
 These questions should serve well for interviews at product-based companies that expect a deep understanding of MySQL.
 
 
